@@ -6,5 +6,5 @@
 3. [Определение перспективного тарифа для телеком-компании](https://github.com/izakson/product_analysis/tree/main/mobile_tariffs_analysis).  *Нужно определить, какой из двух тарифов сотовой связи выгоднее компании.*
 4. [Анализ рынка продаж компьютерных игр](https://github.com/izakson/product_analysis/tree/main/videogames%20analysis).  *Нужно выявить закономерности, определяющие успешность видеоигр.*
 
-## Рабочие проекты для BestDoctor
+## Рабочие проекты для медицинской страховой
 1. [Исследование эффективности дежурных операторов](https://github.com/izakson/product_analysis/tree/main/telemed_research)
